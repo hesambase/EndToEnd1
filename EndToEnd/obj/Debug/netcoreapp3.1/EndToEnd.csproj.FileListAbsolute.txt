@@ -1,0 +1,244 @@
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\efpt.config.json
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.StaticWebAssets.xml
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.exe
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.deps.json
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.runtimeconfig.json
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.runtimeconfig.dev.json
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.pdb
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.Views.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.Views.pdb
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\TEMP\EndToEnd\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\staticwebassets\EndToEnd.StaticWebAssets.Manifest.cache
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\staticwebassets\EndToEnd.StaticWebAssets.xml
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorComponent.input.cache
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\EndToEnd.dll
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.TagHelpers.input.cache
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.TagHelpers.output.cache
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorCoreGenerate.cache
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorAssemblyInfo.cache
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorAssemblyInfo.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.AssemblyInfoInputs.cache
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.AssemblyInfo.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorTargetAssemblyInfo.cache
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorTargetAssemblyInfo.cs
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.Views.pdb
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.csproj.CopyComplete
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.dll
+C:\TEMP\EndToEnd\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.pdb
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\efpt.config.json
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.StaticWebAssets.xml
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.exe
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.deps.json
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.runtimeconfig.json
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.pdb
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.Views.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.Views.pdb
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.csprojAssemblyReference.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\staticwebassets\EndToEnd.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\staticwebassets\EndToEnd.StaticWebAssets.xml
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorComponent.input.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\EndToEnd.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.TagHelpers.input.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.TagHelpers.output.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorCoreGenerate.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorAssemblyInfo.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorAssemblyInfo.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.Views.pdb
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.csproj.CopyComplete
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.dll
+C:\Users\lenovo\Downloads\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.pdb
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\efpt.config.json
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.StaticWebAssets.xml
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.exe
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.deps.json
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.runtimeconfig.json
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.runtimeconfig.dev.json
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.pdb
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.Views.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\EndToEnd.Views.pdb
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.csprojAssemblyReference.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\staticwebassets\EndToEnd.StaticWebAssets.Manifest.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\staticwebassets\EndToEnd.StaticWebAssets.xml
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorComponent.input.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.TagHelpers.input.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.TagHelpers.output.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorCoreGenerate.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorAssemblyInfo.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorAssemblyInfo.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.AssemblyInfoInputs.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.AssemblyInfo.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorTargetAssemblyInfo.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.RazorTargetAssemblyInfo.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.Views.pdb
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.csproj.CopyComplete
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.pdb
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchMemories.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.MvcApplicationPartsAssemblyInfo.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.MvcApplicationPartsAssemblyInfo.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\RazorDeclaration\EndToEnd.dll
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\FetchMemories.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.csproj.CoreCompileInputs.cache
+E:\MyWorks\Hesam\Net Framework\C#\2019\BlazorCookieAuthInsertDatabase\EndToEnd\obj\Debug\netcoreapp3.1\EndToEnd.genruntimeconfig.cache
